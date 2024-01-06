@@ -1,5 +1,5 @@
 # SocksBox
-Terraform template that creates a truly ephemeral socks proxy.
+Terraform template that creates a truly ephemeral socks proxy in AWS.
 
 ## Usage
 Clone this repo.
